@@ -4,7 +4,7 @@ Repositório de recursos utilizados durante a visita ao Instituto Federal do Cea
 ## Período
 11 a 13 de junho de 2019
 
-##Programação
+## Programação
 - **Terça [11 de junho]**:  
 Palestra no Café com Bytes [noite]
 
