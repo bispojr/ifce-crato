@@ -1,0 +1,56 @@
+Créditos
+
+
+Imagens
+
+BugSniffer
+[WEI 2019] Uso de Mineração de Dados para o Auxílio de Produção de Material Didático em Disciplinas de Algoritmos
+
+Índice de Evasão nas IES Públicas e Privadas do Brasil
+https://repositorio.unesp.br/bitstream/handle/11449/100340/000751146.pdf?sequence=1
+
+Risco de Reprovação
+http://www.danielzingaro.com/icer16.pdf
+
+Risco de Evasão
+https://pabloschoeffel.wixsite.com/site/emmecs
+
+Modelagem Preditiva
+https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics2/index.html
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+
+Prevenção de plágios
+https://www.turnitin.com/pt
+
+Análise de Sentimentos dos Estudantes
+http://www.cienciaedados.com/analise-de-sentimentos-e-machine-learning/
+https://escritorio.portalfirst.com.br/store/16/120
+
+Mapa conceitual
+http://www.academiadesoftware.com.br/blog/?p=218
+https://pt.wikibooks.org/wiki/Linux_Essencial/Mapas_Conceituais_Hist%C3%B3ria_do_Linux/Mapa_Conceitual:_Linux
+https://study.com/academy/lesson/concept-map-definition-examples.html
+
+Robótica Educacional
+http://tenisdemesaprudente.blogspot.com/2013/05/robo-pong-2050.html
+https://www.robomind.com.br/
+https://www.robomindacademy.com/robomind/home
+
+Chatbot para Educação
+https://botsify.com/education-chatbot
+https://www.standard.co.uk/tech/spot-ai-work-harassment-a3977846.html
+https://talktospot.com/
+
+Simulador
+https://www.youtube.com/watch?v=G-rVKjfGSRc
+http://g1.globo.com/carros/noticia/2015/08/eficacia-do-simulador-divide-opinioes-de-alunos-onde-ele-e-obrigatorio.html
+
+Machismo e Chatbot
+https://4gnews.pt/apple-siri-atras-alexa-google-assistant/
+https://unesdoc.unesco.org/ark:/48223/pf0000367416.page=1
+
+
+
+
+
+
