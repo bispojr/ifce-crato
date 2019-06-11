@@ -11,9 +11,11 @@ https://repositorio.unesp.br/bitstream/handle/11449/100340/000751146.pdf?sequenc
 
 Risco de Reprovação
 http://www.danielzingaro.com/icer16.pdf
+https://mystudentvoices.com/why-schools-are-setting-us-up-for-failure-e240806c18f6
 
 Risco de Evasão
 https://pabloschoeffel.wixsite.com/site/emmecs
+http://theconversation.com/this-is-how-to-stop-students-dropping-out-of-university-83250
 
 Modelagem Preditiva
 https://www.ibm.com/developerworks/br/industry/library/ba-predictive-analytics2/index.html
@@ -35,6 +37,7 @@ Robótica Educacional
 http://tenisdemesaprudente.blogspot.com/2013/05/robo-pong-2050.html
 https://www.robomind.com.br/
 https://www.robomindacademy.com/robomind/home
+https://www.brickbrowse.com/mindstorms/lego-mindstorms-nxt-2-0-8547/
 
 Chatbot para Educação
 https://botsify.com/education-chatbot
