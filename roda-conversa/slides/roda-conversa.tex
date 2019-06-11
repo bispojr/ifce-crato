@@ -1,0 +1,210 @@
+ \documentclass[xcolor=dvipsnames,table]{beamer}
+%o
+%e
+
+\usepackage{latexsym}
+\usepackage [ansinew]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{amssymb} %Este e o AMS paquete
+\usepackage{amsmath}
+\usepackage{stmaryrd}
+\usepackage{fancybox}
+\usepackage{datetime}
+\usepackage{enumitem}
+
+\usepackage[T1]{fontenc}
+
+%\usepackage{beamerthemesplit}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{url}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{acronym}
+\usepackage{array}
+\usepackage{colortbl}
+
+\newtheorem{definicao}{Definio}
+\newcommand{\tab}{\hspace*{2em}}
+
+\mode<presentation>
+{
+  %\definecolor{colortexto}{RGB}{153,100,0}
+  \definecolor{colortexto}{RGB}{0,0,0}
+  
+% \setbeamersize{sidebar width left=0.5cm}
+  \setbeamertemplate{background canvas}[vertical shading][ bottom=white!10,top=white!10]
+%   \setbeamercolor{title}{fg=colortitulo!80!black,bg=blue!20!white}
+%   \setbeamercolor{title}{bg=colortitulo!20!black}
+%   \setbeamercolor{background canvas}{bg=colortitulo}
+%   \setbeamercolor{frametitle}{fg=red}
+
+  \setbeamercolor{normal text}{fg=colortexto} 
+
+  \usetheme{Warsaw}
+  %\logo{\includegraphics[width=2cm]{Images/ratonfuerte.jpg}}
+
+
+%   \usefonttheme[onlysmall]{structurebold}
+%   \usecolortheme{seahorse}
+%  \usecolortheme[named={YellowOrange}]{structure}
+%   \usecolortheme[named={Blue}]{structure}
+%   \usecolortheme{crane}
+%   \useoutertheme{default}
+}
+\setbeamertemplate{caption}[numbered]
+
+\title{Roda de Conversa sobre Evasão} 
+
+\author{
+  Esdras Lins Bispo Jr. \\ \url{bispojr@ufg.br}
+  } 
+ \institute{
+  Jataí ACM SIGCSE {\it Chapter} \\\url{http://github.com/bispojr/ifce-crato}}
+\date{\textbf{13 de junho de 2019} }
+
+\logo{\includegraphics[width=2cm]{images/logo-chapter-jatai.png}}
+
+\begin{document}
+
+	\begin{frame}
+		\titlepage
+	\end{frame}
+
+	\begin{frame}{Agenda}
+		\tableofcontents
+		%\tableofcontents[hideallsubsections]
+	\end{frame}
+	
+	\section{Introdução}
+	\begin{frame}{Professor}
+	\begin{columns}
+		\column{.4\textwidth}  		
+		\begin{center}
+			\includegraphics[height=.5\textheight]{images/eu.jpg}
+		\end{center}
+		\column{.6 \textwidth}  		
+		\begin{block}{Quem?}
+			\begin{center}
+				{\bf Esdras L. Bispo Jr.} \\ Recife, Pernambuco.
+			\end{center}
+		\end{block}
+		\begin{block}{Caminhada...}
+			\begin{center}
+				Sistemas de Informação {\bf [Graduação]} \\
+					Repr. Conhecimento (IA) {\bf [Mestrado]}\\
+				Jataí ACM SIGCSE {\it Chapter} {\bf [Chair]}
+			\end{center}
+		\end{block}	
+		\begin{block}{Linha de Pesquisa}
+			Educação de Computação
+		\end{block}
+	\end{columns}
+\end{frame}
+
+\section{Conhecendo um pouco a realidade...}
+	\begin{frame}{Conhecendo um pouco a realidade...}
+		\begin{block}{}
+			Como é a realidade da {\bf evasão} no IFCE-Crato?
+		\end{block} \pause
+	 	\begin{block}{}
+	 		Quais os instrumentos são utilizados para identificá-la?
+	 	\end{block} \pause
+ 		\begin{block}{}
+ 			Quais os instrumentos são utilizados para enfrentá-la?
+ 		\end{block} \pause
+ 		\begin{block}{}
+ 			Como vocês conciliam as diversas atividades docentes com esta demanda específica?
+ 		\end{block}
+\end{frame}
+
+\section{Abordagem EMMECS}
+
+\begin{frame}{Abordagem EMMECS}
+\begin{block}{EMMECS}
+	{\it Evaluation Model of Motivation and Engagement \\in Computing Students}
+\end{block} \pause
+\begin{block}{Origem da Proposta}
+	Universidade Federal de Santa Catarina (UFSC).
+\end{block} \pause
+\begin{block}{Projeto Piloto}
+	Universidade Federal de Goiás (UFG), Regional Jataí.
+\end{block} \pause
+\begin{block}{Recorte Escolhido}
+	Ingressantes do ano de 2019 do \\
+	Bacharelado em Ciência da Computação.
+\end{block}
+\end{frame}
+
+\begin{frame}{Abordagem EMMECS}
+\begin{center}
+	\includegraphics[width=\textwidth]{images/emmecs}
+\end{center}
+\end{frame}
+
+\begin{frame}[shrink]{Abordagem EMMECS}
+	\begin{block}{Início do curso}
+		\begin{itemize}[label=-]
+			\item Aplicação na primeira semana de aula (uma vez por aluno):
+				\begin{itemize}[label=-]
+					\item Motivação inicial
+					\item Fatores pré-universitários
+				\end{itemize}
+		\end{itemize}
+	\end{block} \pause
+	\begin{block}{Ao longo da disciplina}
+		\begin{itemize}[label=-]
+			\item Aplicação semanal
+			\begin{itemize}[label=-]
+				\item Percepção dos professores
+				\item Motivação atual
+			\end{itemize}
+			
+			\item Aplicação semestral
+			\begin{itemize}[label=-]
+				\item Fatores de motivação
+			\end{itemize}
+			
+		\end{itemize}
+	\end{block} \pause
+		
+	\begin{block}{Após o curso/disciplina (evadidos)}
+		\begin{itemize}[label=-]
+			\item Aplicação ao final do período letivo (evadidos):
+			\begin{itemize}[label=-]
+				\item Fatores de evasão
+			\end{itemize}
+		\end{itemize}
+	\end{block}
+\end{frame}
+
+\begin{frame}{Perspectivas Futuras}
+\begin{block}{}
+	Estreitar laços entre UFG e IFCE;
+\end{block} \pause
+\begin{block}{}
+	Estruturar possibilidades de colaborações em pesquisa sobre evasão; 
+\end{block} \pause
+\begin{block}{}
+	Compreender melhor a natureza da evasão ocorrida no IFCE Crato;
+\end{block} \pause
+\begin{block}{}
+	Compartilhar os resultados obtidos em espaços científicos.
+\end{block}
+\end{frame}
+
+\begin{frame}{Agradecimentos}
+
+	\includegraphics[width=.33\textwidth]{images/logo-ifce-crato}
+	\includegraphics[width=.33\textwidth]{images/logo-chapter-jatai}
+	\includegraphics[width=.3\textwidth]{images/logo-ufg-jatai}
+
+\end{frame}
+
+
+
+	\begin{frame}
+		\titlepage
+	\end{frame}
+	
+\end{document}
